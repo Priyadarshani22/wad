@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\functions">
+      <UniqueIdentifier>{97c84b5f-af27-4d93-b1ed-6b3a90367298}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\pointers">
+      <UniqueIdentifier>{6b120dbd-6e79-46c3-9b1f-3704d2950415}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\loops">
+      <UniqueIdentifier>{bc8319b9-3f40-4c90-8885-4cda868ee431}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\basic c">
+      <UniqueIdentifier>{2eebe42c-ead9-42bc-a506-15f907e3aa71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\storage class">
+      <UniqueIdentifier>{da28f1ec-5896-4c82-8c7e-2afaebe5fcce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\array">
+      <UniqueIdentifier>{79c169b5-e6f8-4ea8-9f52-a0ad39f551b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sorting">
+      <UniqueIdentifier>{3d0e895a-db19-4f22-91c7-05a09f3b9fcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\string">
+      <UniqueIdentifier>{85b8f9fa-7c95-496c-b1db-2655631a6abd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\2D array">
+      <UniqueIdentifier>{d2aecd7d-13fb-4465-9058-a54c090a4867}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DMA">
+      <UniqueIdentifier>{a15f3aaa-f4cb-465a-9c49-ea83b767f9cd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="creating table.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassReturn_factorial.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassNoReturn_factorial.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassReturn_addition.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassReturn_oddeven.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassReturn_max.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="NoPassNoReturn_1 to 10 num.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="NoPassNoReturn_addition.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="NoPassNoReturn_display num.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="NoPassNoReturn_menu driven.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassNoReturn_square.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="NoPassNoReturn_student info.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassNoReturn_swap_fun.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassNoReturn_power_fun.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassNoReturn_simpleInterest.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassNoReturn_student info.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassNoReturn_oddeven.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassNoReturn_menudriven areaO and rect.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassReturn_student info.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassReturn_SI.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassReturn_power.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="PassReturn_cheak.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="divisible by 5.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="3 digit_armstrong.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Area circle.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="power.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Alphabet.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="sum natural num.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="menuedriven sum_evenOdd.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="ptr_swap.c">
+      <Filter>Source Files\pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="PassReturn-PositiveNegative.c">
+      <Filter>Source Files\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="numerator_Denominator.c">
+      <Filter>Source Files\pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="AreaCurcAreaPeri.c">
+      <Filter>Source Files\pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Pt_Power.c">
+      <Filter>Source Files\pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Pt_student info.c">
+      <Filter>Source Files\pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Pt_ddmmyy.c">
+      <Filter>Source Files\pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Pt_Areacircle curcum.c">
+      <Filter>Source Files\pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="for_char.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="for_ascii o to 255.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="for_fac.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="for_n.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="for_odd.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="for_pow.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="for_s_OE.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="for_series.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="for_table.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="for_table_5.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="ifelse_char.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="ifelse_char_R.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="ifelse_M.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="sub_ifelse.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="while armstrong 0to1000.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="while armstrong.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="while count_digit.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="while natural_reverse.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="while_Alphabet.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="while_Ascii_V.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="while_LU.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="while_P.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="while_R.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="while_sum.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="armstrong_100to1000.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="ascii_rectangle.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="div_5.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="licence.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="max.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="max_2no.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="G_square.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="prime_for.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="prime_1to100.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="pattern_rectangle.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="pattern_num.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="pattern_1rectangle.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="pathogorem_T.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="nu_de.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="nested_fact.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="nested _prime 1to 25.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="N_P_0.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="n_p.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="table_6to9.c">
+      <Filter>Source Files\loops</Filter>
+    </ClCompile>
+    <ClCompile Include="turnary odd_even.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="turnary greater_num.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="switch_O.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="swap.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="sub.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="string.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="mul.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="I_E.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="div.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="add.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="c_circle.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="circle.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="data.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="ddata_5.c">
+      <Filter>Source Files\basic c</Filter>
+    </ClCompile>
+    <ClCompile Include="function of 4_static.c">
+      <Filter>Source Files\storage class</Filter>
+    </ClCompile>
+    <ClCompile Include="2 function.c">
+      <Filter>Source Files\storage class</Filter>
+    </ClCompile>
+    <ClCompile Include="function of _max.c">
+      <Filter>Source Files\storage class</Filter>
+    </ClCompile>
+    <ClCompile Include="area peri of rectangle.c">
+      <Filter>Source Files\storage class</Filter>
+    </ClCompile>
+    <ClCompile Include="dashed line table_static.c">
+      <Filter>Source Files\storage class</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse.c">
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="maximum.c">
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="merge.c">
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="average.c">
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="even odd.c">
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="search.c">
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="search ponter.c">
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="insert.c">
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="insert next 5.c">
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="insert next 5 Pointer.c">
+      <Filter>Source Files\array</Filter>
+    </ClCompile>
+    <ClCompile Include="selection sort.c">
+      <Filter>Source Files\sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="String array.c">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="vowels.c">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="togel.c">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="length.c">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="toggel.c">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="compare.c">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="pallindrome.c">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="search return -1.c">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="search char return null.c">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="menue driven.c">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="2D 3X2 array.c">
+      <Filter>Source Files\2D array</Filter>
+    </ClCompile>
+    <ClCompile Include="2D 3X2_user array.c">
+      <Filter>Source Files\2D array</Filter>
+    </ClCompile>
+    <ClCompile Include="8 movies.c">
+      <Filter>Source Files\2D array</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_clg Disply marks.c">
+      <Filter>Source Files\DMA</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_accept Disply.c">
+      <Filter>Source Files\DMA</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_org Disply salary.c">
+      <Filter>Source Files\DMA</Filter>
+    </ClCompile>
+    <ClCompile Include="array of ponter_rainfall.c">
+      <Filter>Source Files\DMA</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer to ponter_matrix.c">
+      <Filter>Source Files\DMA</Filter>
+    </ClCompile>
+    <ClCompile Include="flower_pointer function for 1D char array.c">
+      <Filter>Source Files\DMA</Filter>
+    </ClCompile>
+    <ClCompile Include="library management_fun structure.c">
+      <Filter>Source Files\DMA</Filter>
+    </ClCompile>
+    <ClCompile Include="library management_book.c">
+      <Filter>Source Files\DMA</Filter>
+    </ClCompile>
+    <ClCompile Include="banking application_fun structure.c">
+      <Filter>Source Files\DMA</Filter>
+    </ClCompile>
+    <ClCompile Include="employee info_pointer structure.c">
+      <Filter>Source Files\DMA</Filter>
+    </ClCompile>
+    <ClCompile Include="customer info_pointer structure.c">
+      <Filter>Source Files\DMA</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="areaPeri.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
